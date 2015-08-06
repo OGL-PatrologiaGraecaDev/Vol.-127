@@ -1,0 +1,14 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/127/njp.32101077773040/009.png"; bbox 0 0 2037 3151; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 828 940 1017 1016">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 828 940 1017 1016">
+     <span class='ocr_line' id='line_1_1' title="bbox 828 940 1017 1016; baseline -0.074 0"><span class='ocrx_word' id='word_1_1' title='bbox 828 940 1017 1016; x_wconf 61' lang='grc' dir='ltr'><em>Ζςςὼ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 865 1162 1071 1229">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 865 1162 1071 1229">
+     <span class='ocr_line' id='line_1_2' title="bbox 865 1162 1071 1229; baseline -0.005 -23"><span class='ocrx_word' id='word_1_2' title='bbox 865 1185 906 1229; x_wconf 76' lang='lat' dir='ltr'><em>V</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 961 1162 1071 1225; x_wconf 74' lang='lat' dir='ltr'><em>[Z7</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
